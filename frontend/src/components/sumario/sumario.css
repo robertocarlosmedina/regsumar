@@ -1,0 +1,76 @@
+.sumario_info{
+    width: 800px;
+    margin: 0 auto;
+    background-color: #32343869;
+    border: 1px solid #ffffff4b;
+    border-radius: 10px;
+}
+.list_sumInfo{
+    margin-left: -60px;
+}
+.list_sumInfo li{
+    width: 7rem;
+    height: 7rem;
+    margin-left:20px;
+    flex-direction: column;
+    border: 1px solid #ececec;
+    background-color: #2a2a2a;
+    color: white;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-flex;
+}
+.list_sumInfo li:hover{
+    /* border: 2px solid #ececec; */
+    background-color: #413c3c;
+}
+.more_caracter_control{
+    margin-top: -4px;
+}
+.ico_show{
+    width: 2rem;
+    height:2rem;
+    margin-top: 1.2rem;
+    margin-bottom: -0.7rem;
+}
+.buttons_control{
+    margin-top: 3rem;
+    margin-left: -45px;
+}
+.buttons_control li{
+    padding: 10px;
+    display: inline-block;
+}
+.buttons_control li button{
+    width: 6rem;
+    height: 2.5rem;
+    color: #ececec;
+    border: 1px solid #ffffff46;
+    border-radius: 6px;
+    font-size: 14px;
+}
+.buttons_control li .delete{
+    background-color: #8a1616;
+}
+.buttons_control li .delete:hover{
+    border: 1px solid #ffffff8a;
+    background-color: #832121;
+}
+.buttons_control li .back{
+    background-color: #23136a;
+}
+.buttons_control li .back:hover{
+    border: 1px solid #ffffff8a;
+    background-color: #2f1d7cb3;
+}
+.buttons_control li .edit{
+    background-color: #259228;
+}
+.buttons_control li .edit:hover{
+    border: 1px solid #ffffff8a;
+    background-color: #38a53b;
+}
+
+

@@ -1,0 +1,60 @@
+.setting_info li{
+    padding: 30px;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-flex;
+    margin-right: 5px;
+}
+.setting_ico{
+    width: 150px;
+    height: 150px;
+}
+.name{
+    font-style: bold;
+    font-size: 20px;
+}
+.hidden{
+    font-size: 0.1px;
+}
+.input_settings{
+    border: none;
+    background-color: #ffffff7c;
+    width: 12rem;
+    height: 2rem;
+    border-radius: 7px;
+    margin-top: -15px;
+    margin-bottom: -10px;
+    padding-left:10px ;
+}
+.update_button{
+    color: #FFFFFF;
+    margin-top:20px;
+    width: 13rem;
+    height: 2rem;
+    border-radius: 7px;
+    border: none;
+    background-color:#259228;
+}
+.update_button:hover{
+    transition: 1s;
+    border: 1px solid #ffffff8a;
+    background-color:#38a53b;
+}
+.not_valid_pass{
+    margin: 0 auto;
+    padding: 20px;
+    width: 450px;
+    border:1px solid #630000;
+    border-radius: 10px;
+    color: #a5a5a5;
+    background-color: #44333367;
+}
+.change_save{
+    margin: 0 auto;
+    padding: 20px;
+    width: 450px;
+    border:1px solid #020063;
+    border-radius: 10px;
+    color: #a5a5a5;
+    background-color: #20263b67;
+}

@@ -1,0 +1,115 @@
+.new-sumario__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.2rem;
+  padding: 10px;
+  text-align: left;
+  color: #1c1c1c;
+}
+.new-sumario__controls li{
+  display: inline;
+  text-decoration: none;
+}
+.new-sumario__controls label{
+  color: #FFFFFF;
+}
+.empty_alert{
+  width: 60%;
+  margin: 0 auto 20px;
+  background-color: #44333367;
+  border:1px solid #630000;
+  border-radius: 10px;
+  color: #a5a5a5;
+  padding: 15px;
+  font-size: 18px;
+}
+.normal_input{
+  background-color:#ffffff7c; 
+  border: none;
+  width: 19.1vw;
+  height: 3vw;
+  border-radius: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  outline:  0px;
+}
+.biblio{
+  width: 25.5vw;
+  height: 6vw;
+  padding: 20px;
+  resize: vertical;
+  font-size: 15px;
+  background-color:#ffffff7c ; 
+  border: none;
+}
+.small_input{
+  background-color:#ffffff7c ; 
+  border: none;
+  outline:  0;
+  width: 10vw;
+  height: 3vw;
+  border-radius: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.large_input{
+  outline:  0;
+  width: 57.1vw;
+  height: 15vw;
+  padding: 20px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: #ffffff7c;
+  resize: vertical;
+}
+.new-sumario__actions {
+  text-align: center;
+  margin-right: 20px;
+}
+.new-sumario__actions button{
+  width: 8.5rem;
+  border: none;
+  height: 3rem;
+  margin-right: 0px;
+  border-radius: 5px;
+  font-size: 15px;
+  margin-left:20px ;
+  color: #FFFFFF;
+}
+form .small_select{
+  height: 3rem;
+  width: 7rem;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  border: none;
+  background-color:#ffffff7c ; 
+}
+form .large_select{
+  height: 3rem;
+  width: 22rem;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  border: none;
+  background-color:#ffffff7c ; 
+}
+
+.new-sumario__actions .cancel{
+  background-color: #8a1616;
+}
+.new-sumario__actions .cancel:hover{
+  border: 1px solid #ffffff7c;
+  background-color: #832121;
+}
+.new-sumario__actions .save{
+  background-color: #259228;
+}
+.new-sumario__actions .save:hover{
+  border: 1px solid #ffffff7c;
+  background-color: #38a53b;
+}
+

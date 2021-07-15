@@ -1,0 +1,77 @@
+.all_sum{
+    width: 70vw;
+    margin: 0 auto;
+    margin-left:-60px ;
+}
+.sumario_list{
+    text-decoration: none;
+    display: inline;
+}
+.sumario_list li{
+    display: inline-grid;
+    text-decoration: none;
+    padding: 1rem;
+}
+.sumario_list li div{
+    width: 150px;
+    height: 220px;
+    padding: 20px;
+    border-radius: 6px;
+    border: 1px solid #363648cd;
+    background-color: #2725315f;
+}
+.first_ones{
+    margin-left: -40px;
+}
+.sumario_list .display_presenca{
+    width: 50px;
+    height: 10px;
+    margin: 0 auto;
+    display: inline-flex;
+    
+}
+.sumario_list .ico_presenca{
+    width: 25px;
+    height:25px;
+    margin: -9px 5px 0px 0px;
+}
+.sumario_list .display_presenca p {
+    margin: -5px 5px 0px 0px;
+    font-style: bold;
+}
+.sumario_list button{
+    margin-top: 15px;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: 1px solid #f0f0f05d;
+    background-color:#259228;
+}
+.sumario_list button:hover{
+    border: 1px solid #ffffff8a;
+    background-color:#38a53b;
+}
+.sumario_list div h1{
+    font-size: 20px;
+    text-decoration: none;
+}
+.sumario_list div h2{
+    font-size: 15px;
+    text-decoration: none;
+}
+.sumario_list div h3{
+    font-size: 11px;
+    text-decoration: none;
+}
+
+.empty_list{
+    margin-top: 12vw;
+}
+.empty_list p{
+    font-size: 18px;
+} 
+.ico_empty{
+    width: 80px;
+    height: 80px;
+}

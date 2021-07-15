@@ -1,0 +1,79 @@
+.sumario_desc{
+    width: 50%;
+    margin: 15px auto;
+    padding: 1rem;
+    background-color: #444444;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+.sumario_new{
+    width: 100%;
+    margin: 15px auto;
+    padding: 1.5rem;
+    background-color: #32343869;
+    border: 1px solid #ffffff4b;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 9px;
+    text-align: center;
+    color: white;
+}
+
+.centerCard{
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+}
+.login{
+    width: max(20%, 150px);
+    margin: 0 auto;
+    padding: 1.5rem;
+    background-color: #161B22;
+    border: 1px solid #3a3939;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 8px;
+    text-align: center;
+}
+.navbar{
+    width: 100%;
+    position: fixed;
+    height: 55px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: #323438;
+    border-bottom: 1px solid #9e9e9e8a;
+    color: #FFFFFF;
+}
+.menu{
+    width: max(270px, 10vw);
+    height: max(50vw, 400px);
+    margin-top: max(60px, 2vw);
+    position: fixed;
+    float: left;
+    /* padding: 2rem; */
+    background-color: #323438cb;
+    border: 1px solid #9e9e9e71;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+}
+.home_content{
+    margin-right: 8vw;
+    text-align:center;
+    margin-top: max(90px, 2vw);
+    width: 60vw;
+    color: #FFFFFF;
+    /* background-color: #161B22; */
+}
+.LogOut_popUp{
+    margin-top: 45px;
+    width: 130px;
+    height: 150px;
+    float:right;
+    margin-right: -225px;
+    border-radius: 10px;
+    background-color: #161b22ea;
+    border: 1px solid #d3d3d39d;
+}

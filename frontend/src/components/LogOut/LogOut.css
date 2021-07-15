@@ -1,0 +1,10 @@
+.logOut_control{
+    margin-top: 60px;
+    text-align: center;
+}
+.logOut_control p{
+    color: #ffffff;
+}
+.logOut_control p:hover{
+    color: #9080d3;
+}

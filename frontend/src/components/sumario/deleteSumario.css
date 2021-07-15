@@ -1,0 +1,36 @@
+.loader_ico{
+    width: 45px;
+    height: 45px;
+    margin-top: 12vw;
+    animation: rotation 3s linear infinite;
+}
+.deleted_back{
+    width: 250px;
+    height: 120px;
+    margin: 18vw auto;
+    padding: 20px;
+    background-color: #32343869;
+    border: 1px solid #ffffff4b;
+    border-radius: 6px;
+}
+.deleted_back button{
+    width: 6rem;
+    height: 2.5rem;
+    margin-top: 1.5rem;
+    background-color: #23136a;
+    border: 1px solid #ffffff4b;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+.deleted_back button:hover{
+    background-color: #2f1d7cb3;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }

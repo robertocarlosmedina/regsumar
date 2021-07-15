@@ -1,0 +1,12 @@
+.test{
+    float: right;
+}
+.ico_book{
+    width: 100px;
+    height:100px;
+    margin-top: 11vw;
+    color: #FFFFFF;
+}
+.homepage{
+    display: flexbox;
+}

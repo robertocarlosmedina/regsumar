@@ -1,0 +1,45 @@
+.menu_link{
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-top: 2vw;
+}
+.menu_li {
+    text-decoration: none;
+    display: flex;
+    color: #ffffff;
+    width: 88.5%;
+    background-color: #4f4e4e15;
+    border-top: 1px solid #4f4e4ea4;
+    border-radius:4px;
+    padding-left: 30px;
+}
+.ico_reg{
+    width: 35px;
+    height: 35px;
+    margin-top: 4.5vw;
+}
+.menu_li:hover{
+    background-color: #4f4e4e52;
+    color: #FFFFFF;
+}
+.menu_title{
+    margin-top: 0.1vw;
+    font-size: max(20px,1.8vw);
+}
+.menu_ico_list{
+    margin: 20px;
+    margin-left: 130px;
+    color: #00a90e;
+}
+.menu_ico_pen{
+    margin: 20px;
+    margin-left: 115px;
+    color: #0029b1;
+}
+.menu_ico_setting{
+    width: 20px;
+    height: 20px;
+    margin: 20px;
+    margin-left: 125px;
+    color: #0e0e0e;
+}
